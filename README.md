@@ -9,7 +9,6 @@ and network ACLs.
 [Read My AWS Troubleshooting Write-up](AWS_TROUBLESHOOTING.md)
 
 
-## Fix deliberately broken cloud network infrastructure. Learn by troubleshooting real incidents.
 
 ## Choose Your Cloud
 
