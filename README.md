@@ -1,5 +1,14 @@
 # Networking Lab
 
+## My AWS Networking Lab Experience
+
+Completed all four AWS networking troubleshooting incidents,
+covering VPC routing, NAT gateways, Route 53, security groups,
+and network ACLs.
+
+[Read My AWS Troubleshooting Write-up](AWS_TROUBLESHOOTING.md)
+
+
 Fix deliberately broken cloud network infrastructure. Learn by troubleshooting real incidents.
 
 ## Choose Your Cloud
